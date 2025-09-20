@@ -28,6 +28,7 @@ The bonus part includes:
 - Reading from multiple file descriptors simultaneously without data leaks or interference.
 
 - Proper handling of edge cases (empty files, very long lines, etc.).
+- 🚧 I have completed the bonus part, but I'm currently working on fixing a small memory leak I discovered during testing.
 
 ---
 ## 📄 License
